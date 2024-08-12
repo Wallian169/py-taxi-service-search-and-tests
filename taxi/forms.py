@@ -83,4 +83,3 @@ class DriverSearchForm(forms.Form):
             attrs={"placeholder": "Search by username"}
         )
     )
-
